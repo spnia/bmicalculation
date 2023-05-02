@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">304_First_Pro</string>
+    <string name="height">신장</string>
+    <string name="weight">체중</string>
+    <string name="confirm">확인</string>
+    <string name="bmi_title">BMI : </string>
+    <string name="bmi_value">결과 : </string>
+</resources>
